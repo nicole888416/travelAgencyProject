@@ -1,7 +1,6 @@
-Luxurious Travel Management System
-Enterprise-Level Java Desktop Commerce & Order Management Platform
+##Luxurious Travel Management System
 
-高端旅遊電商與訂單管理整合系統
+旅遊電商與訂單管理整合系統
 Java / Swing / MVC / DAO / MySQL / Apache POI
 完整會員、商品、訂單、績效與報表後台管理系統
 
