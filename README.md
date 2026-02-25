@@ -1,4 +1,4 @@
-##Luxurious Travel Management System
+Luxurious Travel Management System
 
 旅遊電商與訂單管理整合系統
 Java / Swing / MVC / DAO / MySQL / Apache POI
