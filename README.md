@@ -4,6 +4,23 @@ Luxurious Travel Management System
 Java / Swing / MVC / DAO / MySQL / Apache POI
 完整會員、商品、訂單、績效與報表後台管理系統
 
+操作功能示範影片:
+1.員工註冊:
+
+https://github.com/user-attachments/assets/45862df2-3989-4123-a39e-a5381d584cd2
+
+2.員工管理商品:
+
+https://github.com/user-attachments/assets/fac34e5b-d85d-4d52-8282-3c77f55fc9c9
+
+3.會員註冊/下單:
+
+https://github.com/user-attachments/assets/bbf4ea43-a7a3-4ae7-bcb7-7e8f93d04216
+
+4.總經理管理訂單/管理員工績效/管理營業額:
+
+https://github.com/user-attachments/assets/69472b78-867e-4093-86c3-72061ce71fcd
+
 📌 專案介紹
 
 Luxurious Travel Management System 是一套以 企業級分層架構（MVC + Service + DAO） 設計的桌面型旅遊電商平台。
